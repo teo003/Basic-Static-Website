@@ -1,6 +1,6 @@
 # Project Title
 
-Basic Static Website!
+Basic website template to jumpstart a begginer level project.
 
 ## Getting Started
 
