@@ -21,6 +21,6 @@ No requirements.
 
 ## License
 
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
+This project is licensed under the [GNU General Public License v3.0](LICENSE.md)
 Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
 details
